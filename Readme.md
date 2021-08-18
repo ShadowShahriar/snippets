@@ -6,6 +6,8 @@ These are the starter code snippets I am using for new projects. I find myself w
 
 # set up
 
+https://user-images.githubusercontent.com/79012744/129851318-649bad9d-d929-4141-88da-60cd10438b0a.mp4
+
 Open VSCode. Hit <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> to open the command palette. Type `Cofigure User Snippets` and hit <kbd>Enter</kbd>.
 
 Type `CSS` to create a new json file and put the code from `html-css-starter/css.json`. Save the file with <kbd>Ctrl</kbd> + <kbd>S</kbd>. Repeat the process for other snippets.
