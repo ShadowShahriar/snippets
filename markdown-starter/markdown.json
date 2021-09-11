@@ -1,0 +1,26 @@
+{
+	"⬛ CodePen Description Starter": {
+		"prefix": "@pen",
+		"body": [
+		  "## Description <!-- ## Summary -->",
+		  "",
+		  "$0",
+		  "",
+		  "## Performance <!-- ## Compatibility -->",
+		  "",
+		  "<!-- ## Behind the scenes -->",
+		  "",
+		  "<!-- ## Legal -->",
+		  "",
+		  "## Support",
+		  "",
+		  "${2:Since I am a student and web development is my part-time job, most of you probably know that I am no longer available on social media. As a consequence, these projects are less seen by intended viewers.\n\nIf you really like what I do and want me to stick with the job, I sincerely ask you to 🤍 (heart) this pen. It would mean the world to me if you share this pen in your Twitter Timeline or in a subreddit.}",
+		  "",
+		  "<!-- As always, I am looking for criticism on my work. Let me know if there is something I could improve. -->",
+		  "",
+		  "`${1:11.09.2021}` <!-- DD.MM.YYYY -->",
+		  ""
+		],
+		"description": "⬛ CodePen Description Starter"
+	  }
+}
