@@ -28,7 +28,8 @@ E.g. to emmet the `CSS` starter, type `@css` and hit <kbd>Enter</kbd>.
 
 Here are the tab triggers for each snippet:
 
-| File      | Emmet snippet | Tab trigger |
-| --------- | ------------- | ----------- |
-| css.json  | CSS Starter   | `@css`      |
-| html.json | HTML Starter  | `@html`     |
+| File          | Emmet snippet               | Tab trigger |
+| ------------- | --------------------------- | ----------- |
+| css.json      | CSS Starter                 | `@css`      |
+| html.json     | HTML Starter                | `@html`     |
+| markdown.json | CodePen Description Starter | `@pen`      |
